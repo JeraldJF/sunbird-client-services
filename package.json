@@ -1,5 +1,5 @@
 {
-  "name": "@project-sunbird/client-services",
+  "name": "@project-sunbird-jerald/client-services",
   "version": "8.1.4",
   "description": "Type definitions and models for Sunbird platform clients",
   "main": "dist/index.js",
